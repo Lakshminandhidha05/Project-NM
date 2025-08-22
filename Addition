@@ -1,3 +1,4 @@
-int a=15,b=25
+a=int(Integer(enter first number:))
+b=int(Integer(enter second number:))
 int c=a+b
 print(c)
